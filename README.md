@@ -3,7 +3,7 @@
 Requires ffmpeg, ffprobe and youtube-dl (see google, or this repositories releases)
 
 
-These scripts assist in mass downloading cc.com shows, or a custom url, and concatenating multiple parts to one file.
+These scripts assist in mass downloading cc.com shows, or a custom url, concatenating multiple parts to one file, as well as renaming to a shorter & less cumbersome naming structure.
 
 
 1. Download tools needed from external sources (or use my release to download versions of youtube-dl and ffmpeg used)
